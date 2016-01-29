@@ -18,6 +18,7 @@
           <div class="col-md-12">
             <h1 class="text-warning">Laura Christy
               <br>Coding the Law: Final Project</h1>
+              <imgsrc=https://upload.wikimedia.org/wikipedia/commons/3/3e/USA_09562_Boston_Luca_Galuzzi_2007.jpg>
           </div>
         </div>
       </div>
