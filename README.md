@@ -1228,6 +1228,22 @@
       </div>
       <div class="section"></div>
   </body>
+  <html>
+<head>
+<style>
+body {
+    background-color: salmon;
+}
+h1 {
+    color: black;
+    margin-left: 40px;
+} 
+</style>
+</head>
+<body>
+
+</body>
+</html>
 
 </html>
 /*!
