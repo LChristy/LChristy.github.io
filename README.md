@@ -18,7 +18,8 @@
           <div class="col-md-12">
             <h1 class="text-warning">Laura Christy
               <br>Coding the Law: Final Project</h1>
-              <imgsrc=https://upload.wikimedia.org/wikipedia/commons/3/3e/USA_09562_Boston_Luca_Galuzzi_2007.jpg>
+              <imgsrc="https://upload.wikimedia.org/wikipedia/commons/3/3e/USA_09562_Boston_Luca_Galuzzi_2007.jpg">
+              <ahref="http://www.a2jauthor.org/app/js/viewer/desktop.min.html?templateURL=%2Fapp%2Fuserfiles%2Fpublic%2FLChristy%2Fguides%2FGuide2136%2F2016-01-29-11-29-20%2FGuide.xml&fileDataURL=..%2Ftests%2Fdata%2F&getDataURL=A2J_ViewerAnswerGet.php%3FanswersID%3D%26rnd%3D0.884267755318433&setDataURL=A2J_ViewerAnswerSet.php%3FanswersID%3D&autoSetDataURL=A2J_ViewerAutoSetData.php%3FanswersID%3D&exitURL=A2J_ViewerExit.html&logURL=A2J_ViewerLog.php&errRepURL=A2J_ViewerErrRep.php">See A2J Interview</a>
           </div>
         </div>
       </div>
